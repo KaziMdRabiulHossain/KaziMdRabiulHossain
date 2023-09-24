@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaziMdRabiulHossain
-- 👀 I’m interested in Apps Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter Projecta
+- 👀 I’m interested in Software Quality Assurance
+- 🌱 I’m currently learning Automation Testing
+- 💞️ I’m looking to collaborate with excellent QA Team for my Professional growth
 - 📫 How to reach me 
 - kazimdrabiulhossain9@gmail.com
 
